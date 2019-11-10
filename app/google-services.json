@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "904878413947",
+    "firebase_url": "https://shesafeapp-d57bc.firebaseio.com",
+    "project_id": "shesafeapp-d57bc",
+    "storage_bucket": "shesafeapp-d57bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904878413947:android:a31fe61d75ed0224626ade",
+        "android_client_info": {
+          "package_name": "com.example.shesafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904878413947-0fbap68n02hvf94kohj1ajqueboqcben.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shesafe",
+            "certificate_hash": "d0a391c16ccdfe6cba29f3ec7f341f4897501916"
+          }
+        },
+        {
+          "client_id": "904878413947-8ik4cu9f16ectahlua93sluvv2je2o8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1_JuS57L4FmxuQ6XOtoiaS7BrzPrz7jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904878413947-8ik4cu9f16ectahlua93sluvv2je2o8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
